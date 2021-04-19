@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavDrawer NavDrawer snapshot test 1`] = `
+<v-navigation-drawer-stub app="true" height="100vh" minivariantwidth="80" mobilebreakpoint="1264" src="" tag="nav" width="256" value="true">
+  <v-list-item-stub activeclass="" tag="div">
+    <v-list-item-content-stub>
+      <v-list-item-title-stub class="title">
+        Compost calculator
+      </v-list-item-title-stub>
+      <v-list-item-subtitle-stub>
+        subtext
+      </v-list-item-subtitle-stub>
+    </v-list-item-content-stub>
+  </v-list-item-stub>
+  <v-divider-stub></v-divider-stub>
+  <v-list-stub tag="div" tile="true">
+    <v-list-item-group-stub value="0" activeclass="v-item--active">
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-home</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>Home</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-calculator</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>Calculator</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-sprout</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>Feedstocks</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-leaf</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>myFeedstocks</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-chart-bar</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>myResults</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+      <v-list-item-stub activeclass="" link="true" tag="div">
+        <v-list-item-icon-stub>
+          <v-icon-stub>mdi-settings</v-icon-stub>
+        </v-list-item-icon-stub>
+        <v-list-item-content-stub>
+          <v-list-item-title-stub>Settings</v-list-item-title-stub>
+        </v-list-item-content-stub>
+      </v-list-item-stub>
+    </v-list-item-group-stub>
+  </v-list-stub>
+</v-navigation-drawer-stub>
+`;
